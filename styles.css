@@ -69,3 +69,14 @@ body {
 	font-family: 'Russo One';
 	padding-top: 20px;
 }
+#projectThumb {
+	display: block;
+	margin: auto;
+
+}
+#projectText {
+	text-align: center;
+	font-family: 'Russo One';
+	color: white;
+
+}
