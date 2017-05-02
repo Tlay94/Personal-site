@@ -1,0 +1,61 @@
+* {
+	margin:0;
+}
+html, body {
+	height: 100%;
+}
+
+}
+h1, h2, h3, h4, h6, p {
+	margin-bottom: 20px;
+}
+body {
+	background-color:;
+	color: blue;
+	margin-top: 0px;
+}
+.nav-pills {
+
+  font-family: 'Russo One';
+  font-size:2.0em;
+  background-color: grey;
+  margin: 0px -15px -15px -15px;
+  position: fixed;
+  width: 100%;
+  
+
+}
+
+.sect {
+	height: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+.subSection {
+	height: 50%;
+	background-color: bisque;
+}
+.sectOne {
+	margin-top: 60px;
+	background-image: url("http://www.desktopas.com/files/2013/06/Matterhorn-Midnight-Reflection-1920x1080-Wallpaper-5507.jpg")
+
+}
+.sectTwo {
+	background-image: url("https://images7.alphacoders.com/292/thumb-1920-292470.jpg")
+	
+}
+.sectThree {
+	background-image: url("http://eskipaper.com/images/mountains-hd-1.jpg")
+}
+#portfolioPic {
+	display: block;
+    margin: auto;
+    padding-top: 200px;
+	}
+#myName {
+	font-family: 'Russo One';
+	text-align: center;
+	font-size: 400%;
+	color: white;
+}
