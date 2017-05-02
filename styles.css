@@ -38,24 +38,27 @@ body {
 }
 .sectOne {
 	margin-top: 60px;
-	background-image: url("images/pic1.jpeg")
+	background-image: url("https://images.unsplash.com/photo-1476908965434-f988d59d7abd?dpr=1&auto=format&fit=crop&w=1500&h=844&q=80&cs=tinysrgb&crop=&bg=")
 
 }
 .sectTwo {
-	background-image: url("images/pic2.jpeg")
+	background-image: url("https://images.unsplash.com/photo-1490079027102-cd08f2308c73?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=")
 	
 }
 .sectThree {
-	background-image: url("images/pic3.jpeg")
+	background-image: url("https://images.unsplash.com/photo-1483068612337-c045daaca40e?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=")
 }
 #portfolioPic {
 	display: block;
     margin: auto;
-    padding-top: 200px;
+    padding-top: 25px;
+    width: 30%;
+    border-radius: 50%;
 	}
 #myName {
 	font-family: 'Russo One';
 	text-align: center;
-	font-size: 400%;
+	font-size: 450%;
 	color: white;
+	padding-top: 100px;
 }
