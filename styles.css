@@ -34,19 +34,19 @@ body {
 }
 .subSection {
 	height: 50%;
-	background-color: bisque;
+	background-color: #a5a5a5;
 }
 .sectOne {
 	margin-top: 60px;
-	background-image: url("http://www.desktopas.com/files/2013/06/Matterhorn-Midnight-Reflection-1920x1080-Wallpaper-5507.jpg")
+	background-image: url("images/pic1.jpeg")
 
 }
 .sectTwo {
-	background-image: url("https://images7.alphacoders.com/292/thumb-1920-292470.jpg")
+	background-image: url("images/pic2.jpeg")
 	
 }
 .sectThree {
-	background-image: url("http://eskipaper.com/images/mountains-hd-1.jpg")
+	background-image: url("images/pic3.jpeg")
 }
 #portfolioPic {
 	display: block;
